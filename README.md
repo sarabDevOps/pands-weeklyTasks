@@ -31,7 +31,7 @@ Download and extract the zip folder here [Pands-Weekly-Tasks](https://github.com
 
 ## Author
           
-[Sarabjeet ](https://github.com/sarabDevOps/pands-weeklyTask)
+[Sarabjeet ](https://github.com/sarabDevOps)
 
 ## License
 
