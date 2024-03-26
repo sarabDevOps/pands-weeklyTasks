@@ -35,4 +35,4 @@ Download and extract the zip folder here [Pands-Weekly-Tasks](https://github.com
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/sarabDevOPs/pands-weeklyTask/blob/master/LICENSE) License 
+This project is licensed under the [MIT](https://github.com/sarabDevOps/pands-weeklyTasks/tree/main?tab=MIT-1-ov-file) License 
