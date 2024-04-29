@@ -12,7 +12,7 @@ Download and extract the zip folder here [Pands-Weekly-Tasks](https://github.com
 
 Download visual studio code and install python and anconda 
 
-Visual studio code [download here](https://visualstudio.microsoft.com/downloads/)on your machine
+Visual studio code [download here](https://visualstudio.microsoft.com/downloads/) on your machine
 
 install latest version of pyhton [here](https://www.python.org/downloads/) 
 
