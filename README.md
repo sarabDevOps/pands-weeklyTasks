@@ -10,24 +10,24 @@ Download and extract the zip folder here [Pands-Weekly-Tasks](https://github.com
 
 ### Prerequisites
 
+Download visual studio code and install python and anconda 
+
+Visual studio code [download here](https://visualstudio.microsoft.com/downloads/)on your machine
+
+install latest version of pyhton [here](https://www.python.org/downloads/) 
+
 
 
 ### Installing
 
-**Step 1**. 
-**Step 2**.        
-**Step 3**.             
+Once you have downloaded the executable file click on it and it will automatic guide you for installation.           
 
 ## Deployment
-
-**Step 1**.       
-**Step 2**.    
-**Step 3**.      
-
+File menu from Visual studio code ----> Hit the open ------>  (NAME OF THE FILE ) from file Explorer 
 
 ## Built With
 
-
+* [VS CODE](https://code.visualstudio.com/) - code
 
 ## Author
           
