@@ -25,6 +25,8 @@ Once you have downloaded the executable file click on it and it will automatic g
 ## Deployment
 File menu from Visual studio code ----> Hit the open ------>  (NAME OF THE FILE ) from file Explorer 
 
+To Run -----> python "NAME OF THE FILE" .py
+
 ## Built With
 
 * [VS CODE](https://code.visualstudio.com/) - code
